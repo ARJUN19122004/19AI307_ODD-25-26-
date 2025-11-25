@@ -85,7 +85,8 @@ public class UppercaseStrings {
 ## **OUTPUT:**
 
 ```
-<img width="529" height="266" alt="image" src="https://github.com/user-attachments/assets/1d1f04da-2935-4944-ba83-9974526c717c" />
+<img width="514" height="252" alt="image" src="https://github.com/user-attachments/assets/e23dfb9a-a170-4c2a-9f7f-346588f92ac6" />
+
 
 ```
 
@@ -96,5 +97,6 @@ public class UppercaseStrings {
 Thus, the program was successfully executed using **exception handling** concepts.
 
 ---
+
 
 
