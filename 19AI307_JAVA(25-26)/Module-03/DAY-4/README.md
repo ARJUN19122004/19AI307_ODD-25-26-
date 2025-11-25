@@ -95,4 +95,4 @@ Thus, the Java program using **Interface implementation** for weather prediction
 
 ---
 
-If you want **Ex.No:4 next**, I can prepare it in the same format.
+
