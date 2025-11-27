@@ -97,4 +97,5 @@ Thus, the Java program using access specifiers with getter and setter methods wa
 
 ---
 
-If you want **Ex.No:2(D) – Inheritance**, just tell me!
+
+
